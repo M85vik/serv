@@ -1,0 +1,98 @@
+{
+    "math": [
+      {
+        "id": 1,
+        "title": "Algebra Basics PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "title": "Geometry Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "phy": [
+      {
+        "id": 1,
+        "title": "Physics Lecture PPT",
+        "type": "ppt",
+        "icon": "file-powerpoint",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "title": "Mechanics PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "chem": [
+      {
+        "id": 1,
+        "title": "Organic Chemistry Notes",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "title": "Periodic Table Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "bio": [
+      {
+        "id": 1,
+        "title": "Human Anatomy PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "title": "Plant Biology Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "cs": [
+      {
+        "id": 1,
+        "title": "Introduction to Algorithms PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "title": "Programming Basics PPT",
+        "type": "ppt",
+        "icon": "file-powerpoint",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      }
+    ],
+    "eng": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+      }
+    ]
+  }
