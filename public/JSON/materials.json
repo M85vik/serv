@@ -1,98 +1,354 @@
 {
-    "math": [
-      {
+    "cla": [
+      { 
         "id": 1,
-        "title": "Algebra Basics PDF",
+        "title": "Mathematics Book N P Bali",
         "type": "pdf",
         "icon": "file-pdf",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "id": 2,
-        "title": "Geometry Image",
-        "type": "image",
-        "icon": "image",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/cla/cla_1_npbali.pdf"
       }
+      
     ],
-    "phy": [
+    "CDC1": [
       {
         "id": 1,
-        "title": "Physics Lecture PPT",
+        "title": "Article",
         "type": "ppt",
         "icon": "file-powerpoint",
         "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
-      },
-      {
-        "id": 2,
-        "title": "Mechanics PDF",
-        "type": "pdf",
-        "icon": "file-pdf",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
       }
     ],
-    "chem": [
+
+
+    "eng": [
       {
         "id": 1,
-        "title": "Organic Chemistry Notes",
+        "title": "Unit 1",
         "type": "pdf",
         "icon": "file-pdf",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/sem1/ENGLISH/DOC-20211215-WA0013.pdf"
       },
       {
         "id": 2,
         "title": "Periodic Table Image",
-        "type": "image",
-        "icon": "image",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
-      }
-    ],
-    "bio": [
-      {
-        "id": 1,
-        "title": "Human Anatomy PDF",
         "type": "pdf",
         "icon": "file-pdf",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "file":"https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/sem1/ENGLISH/Paraphrasing.pdf"
+      }
+    ],
+
+
+    "EVS": [
+      {
+        "id": 1,
+        "title": "Dimesions of Environment",
+        "type": "ppt",
+        "icon": "file-ppt",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/sem1/EVS/evs_1_Dimensions of Environment.pptx"
       },
       {
         "id": 2,
-        "title": "Plant Biology Image",
-        "type": "image",
-        "icon": "image",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "title": "Introuduction to Environmental Science",
+        "type": "ppt",
+        "icon": "file-ppt",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/sem1/EVS/evs_1_Introduction of environmental science.pptx"
       }
     ],
-    "cs": [
+
+
+    "foee": [
       {
         "id": 1,
-        "title": "Introduction to Algorithms PDF",
+        "title": "Lab Manual",
         "type": "pdf",
         "icon": "file-pdf",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/sem1/FOEE/foee_1_BASICS OF ELECTRICAL AND ELECTRONICS LAB Manual.pdf"
       },
       {
         "id": 2,
         "title": "Programming Basics PPT",
         "type": "ppt",
         "icon": "file-powerpoint",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
       }
     ],
-    "eng": [
+
+    "psc": [
       {
         "id": 1,
         "title": "Shakespeare's Works PDF",
         "type": "pdf",
         "icon": "file-pdf",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
       },
       {
         "id": 2,
         "title": "Grammar Basics Image",
         "type": "image",
         "icon": "image",
-        "file": "https://images.unsplash.com/photo-1744939823677-eaafa17ed879?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw4N3x8fGVufDB8fHx8fA%3D%3D"
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "wd": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "chem": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "dsa": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "pas": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+    "pp": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "qm": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "CDC2": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+    "oops": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+    "dbms": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+    "dm": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "ps": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+    "ADA": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+    "AI": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+         "file":"https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+
+    "OS": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      }
+    ],
+
+    "FODE": [
+      {
+        "id": 1,
+        "title": "Shakespeare's Works PDF",
+        "type": "pdf",
+        "icon": "file-pdf",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
+      },
+      {
+        "id": 2,
+        "title": "Grammar Basics Image",
+        "type": "image",
+        "icon": "image",
+        "file": "https://serv-git-main-vikas-sharmas-projects-5aee629a.vercel.app/DOCS/uploaded.pdf"
       }
     ]
   }
